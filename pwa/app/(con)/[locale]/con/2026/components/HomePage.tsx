@@ -173,7 +173,17 @@ const HomePage = ({ speakers, partners, images }: HomePageProps) => {
           </div>
         </Section>
       )}
-      <Venue subtitle={t("2026.venue.subtitle")} />
+      <Venue
+        subtitle={t("2026.venue.subtitle")}
+        tip_title={t("2026.venue.tip_title")}
+        tip={t("2026.venue.tip", {
+          tip_link: (
+            <a className="link" href="https://www.hotelsdelille.com/">
+              {t("2026.venue.tip_link")}
+            </a>
+          ),
+        })}
+      />
       <Section section="sponsorship" className="py-8">
         <div className="container text-center">
           <SectionTitle dark>
