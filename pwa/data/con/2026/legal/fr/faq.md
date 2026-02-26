@@ -53,11 +53,11 @@ Si vous participez à l'édition sur place, votre convocation vous sera égaleme
 
 ## Quand démarre l'événement ?
 
-L'ouverture des portes est prévue le **18 septembre à partir de 08h30**, la keynote d'ouverture démarrera à 9h30. Le jour J, présentez-vous à l'accueil de l'événement avec une pièce d'identité : vous recevrez en échange votre badge vous donnant accès à l'événement ainsi qu'à la soirée d'anniversaire.
+L'ouverture des portes est prévue le **17 septembre à partir de 08h30**, la keynote d'ouverture démarrera à 9h30. Le jour J, présentez-vous à l'accueil de l'événement avec une pièce d'identité : vous recevrez en échange votre badge vous donnant accès à l'événement ainsi qu'à la soirée d'anniversaire.
 
 ## Comment puis-je acheter un billet ? Est-ce que je peux en acheter un sur place ?
 
-Vous pouvez acheter votre place [sur notre site web](#pricing). Vous pouvez également acheter votre place le jour de l'événement à l'accueil badge. 
+Vous pouvez acheter votre place [sur notre site web](/con/2026/tickets/). Vous pouvez également acheter votre place le jour de l'événement à l'accueil badge.
 
 ## Puis-je rejoindre et quitter l'événement à tout moment ?
 
